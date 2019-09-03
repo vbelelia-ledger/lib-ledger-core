@@ -5,6 +5,19 @@ gathers important information you should read prior to starting working or even 
 requests on the repository. Please open issues if you think some important material is missing from
 this same document.
 
+<!-- vim-markdown-toc GFM -->
+
+* [Coding and hacking style conventions](#coding-and-hacking-style-conventions)
+* [Workflow](#workflow)
+* [Release process](#release-process)
+* [About coin integration](#about-coin-integration)
+
+<!-- vim-markdown-toc -->
+
+## Coding and hacking style conventions
+
+Feel free to read [this document](CONVENTIONS.md) for further details.
+
 ## Workflow
 
   - No one directly work on the central repository; we use forks.
