@@ -85,7 +85,9 @@ in the lists below.
     }
   };
   ```
-7. `#include` statements must be sorted (lexical sort).
+7. `#include` statements must be sorted (lexical sort) and always prefers absolute path than relative.
+  The header name follows PascalCase convention.
+ 
 8. Try as much as possible to document all **public symbols** you add. Private symbols just at
   least contain some comments about they are about. Exception made for public implementations:
   you don’t have to copy the documentation that is already present on the interface.
