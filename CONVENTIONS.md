@@ -92,4 +92,4 @@ in the lists below.
   least contain some comments about they are about. Exception made for public implementations:
   you don’t have to copy the documentation that is already present on the interface.
 
-[include guard](https://en.wikipedia.org/wiki/Include_guard)
+[include guard]: https://en.wikipedia.org/wiki/Include_guard
