@@ -92,4 +92,6 @@ in the lists below.
   least contain some comments about they are about. Exception made for public implementations:
   you don’t have to copy the documentation that is already present on the interface.
 
+10. Each header file must contain at maximum one class/struct definition except for nested ones.
+
 [include guard]: https://en.wikipedia.org/wiki/Include_guard
